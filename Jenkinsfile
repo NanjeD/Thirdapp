@@ -1,2 +1,2 @@
 @Library('demo-lib') _
-firstApp 'https://github.com/NanjeD/Thirdapp.git'
+newApp 'https://github.com/NanjeD/Thirdapp.git'
